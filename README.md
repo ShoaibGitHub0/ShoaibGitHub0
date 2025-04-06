@@ -1,4 +1,3 @@
-<img src="https://raw.githubusercontent.com/ShoaibGitHub0/ShoaibGitHub0/main/github-header-image%20(1).png" alt="banner that says Shoaib Mulani - Data Analyst">
 <h1 align="center">Hi 👋, I'm Shoaib Mulani</h1>
 <h3 align="center">A passionate Data Analyst | Uncovering patterns and unlocking data's potential</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*1ojV4epPGRxhZE26dVI4pQ.gif">
